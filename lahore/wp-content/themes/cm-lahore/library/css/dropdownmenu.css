@@ -1,0 +1,18 @@
+#main_navi_in ul, #main_navi_in ul li, #main_navi_in ul ul { list-style: none; margin:0; padding: 0; }
+#main_navi_in ul { position: relative; z-index: 597; float: left; }
+#main_navi_in ul li { float: left; line-height: 1.8em; vertical-align: middle; zoom: 1; }
+#main_navi_in ul li.hover, #main_navi_in ul li:hover { position: relative; z-index: 599; cursor: default; }
+#main_navi_in ul ul { visibility: hidden; position: absolute; top: 100%; left: 0; z-index: 598; width: 100%;}
+#main_navi_in ul ul li { float: none;}
+#main_navi_in ul ul ul { top: 0px; left: 99%; }
+#main_navi_in ul li:hover > ul { visibility: visible; }
+
+/* Default CSS Drop-Down Menu Theme*/
+#main_navi_in ul { font-weight: bold; font:14px; }
+#main_navi_in ul li a { padding: 7px 15px; display:block; }
+#main_navi_in ul li a:link, #main_navi_in ul li a:visited	{  text-decoration: none; }
+	
+/* -- level mark -- */
+#main_navi_in ul ul { width: 190px; margin-left:-1px; }
+#main_navi_in ul ul li ul li ul { margin-left:0px; }
+#main_navi_in ul ul li { font-weight: bold;  margin-top: -1px;  }

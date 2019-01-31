@@ -1,0 +1,11 @@
+#header, #main_navi, .breadcrumb, #sidebar, #footer, .realated_product_section, .fav_link, .sale_img, #shopingcartfrm, #search_section {
+  display: none !important;
+}
+body, #main, #content, .column, #articletext, #footer, img, .main_photo, .product_details {
+  float: none !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border:none !important;
+}
+ 

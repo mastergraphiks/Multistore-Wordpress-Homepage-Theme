@@ -1,0 +1,2767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Emporium v1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-07-28 11:28+0000\n"
+"Last-Translator: Johan11  3223 <miteshru@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:7
+#@ ptthemes_404error_name
+msgid "404 Error Page"
+msgstr ""
+
+#: blog_listing.php:35
+#: message.php:20
+#: tags.php:35
+#@ ptthemes_404error_name
+msgid "Blog"
+msgstr ""
+
+#: comments-old.php:110
+#: comments-old.php:113
+#@ ptthemes_404error_name
+msgid "*"
+msgstr ""
+
+#: comments.php:70
+#@ ptthemes_404error_name
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:88
+#: library/includes/view_account.php:17
+#: message.php:16
+#@ ptthemes_404error_name
+msgid "Logout"
+msgstr ""
+
+#: comments.php:93
+#@ ptthemes_404error_name
+msgid "Name *"
+msgstr ""
+
+#: comments.php:96
+#@ ptthemes_404error_name
+msgid "Email *"
+msgstr ""
+
+#: comments.php:99
+#@ ptthemes_404error_name
+msgid "Website"
+msgstr ""
+
+#: comments.php:105
+#: library/includes/admin_bulk_upload.php:218
+#: library/includes/admin_coupon.php:126
+#: library/includes/admin_paymet_settings.php:112
+#: library/includes/admin_settings.php:373
+#: library/includes/admin_shipping_settings.php:80
+#: library/includes/admin_shippings.php:242
+#: library/includes/affiliates/admin_affiliates_frm.php:102
+#: library/includes/affiliates/affiliates_settings.php:95
+#@ ptthemes_404error_name
+msgid "Submit"
+msgstr ""
+
+#: header.php:99
+#@ ptthemes_404error_name
+msgid "You have"
+msgstr ""
+
+#: index.php:87
+#: sidebar.php:21
+#@ ptthemes_404error_name
+msgid "Product"
+msgstr ""
+
+#: index.php:87
+#: library/functions/general_functions.php:839
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:69
+#: library/includes/affiliates/affiliate_sale_report.php:61
+#: library/includes/affiliates/export_report.php:21
+#: library/includes/cart_detail.php:81
+#: library/includes/confirm.php:109
+#: library/includes/normal_checkout.php:94
+#: library/includes/single_checkout.php:94
+#: sidebar.php:21
+#@ ptthemes_404error_name
+msgid "Qty"
+msgstr ""
+
+#: index.php:87
+#: library/functions/custom.php:683
+#: library/functions/general_functions.php:840
+#: library/includes/cart_detail.php:80
+#: library/includes/confirm.php:110
+#: library/includes/normal_checkout.php:95
+#: library/includes/product_detail.php:77
+#: library/includes/product_detail.php:172
+#: library/includes/single_checkout.php:95
+#: library/includes/view_orders.php:6
+#: sidebar.php:21
+#@ ptthemes_404error_name
+msgid "Price"
+msgstr ""
+
+#: index.php:95
+#: library/includes/admin_manage_orders.php:354
+#: library/includes/affiliates/affiliate_sale_report.php:152
+#: library/includes/affiliates/export_report.php:109
+#: library/includes/cart_detail.php:82
+#: library/includes/confirm.php:111
+#: library/includes/normal_checkout.php:96
+#: library/includes/single_checkout.php:96
+#: sidebar.php:29
+#@ ptthemes_404error_name
+msgid "Total"
+msgstr ""
+
+#: index.php:96
+#: library/includes/edit_profile.php:179
+#: library/includes/edit_profile.php:303
+#: message.php:25
+#: message.php:32
+#: message.php:149
+#@ ptthemes_404error_name
+msgid "Checkout"
+msgstr ""
+
+#: library/functions/category_checklist.php:84
+#: library/functions/category_checklist.php:118
+#: library/functions/category_checklist.php:302
+#: library/functions/category_checklist.php:460
+#, php-format
+#@ ptthemes_404error_name
+msgid "Edit \"%s\""
+msgstr ""
+
+#: library/functions/category_checklist.php:345
+#: library/functions/category_checklist.php:382
+#@ ptthemes_404error_name
+msgid "Modified"
+msgstr ""
+
+#: library/functions/category_checklist.php:347
+#: library/functions/category_checklist.php:384
+#@ ptthemes_404error_name
+msgid "Submitted"
+msgstr ""
+
+#: library/functions/category_checklist.php:349
+#: library/functions/category_checklist.php:386
+#: library/functions/custom.php:1009
+#: library/includes/admin_manage_orders.php:302
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:65
+#: library/includes/affiliates/affiliate_sale_report.php:57
+#: library/includes/affiliates/export_report.php:17
+#: library/includes/view_orders.php:5
+#@ ptthemes_404error_name
+msgid "Date"
+msgstr ""
+
+#: library/functions/category_checklist.php:350
+#: library/functions/category_checklist.php:387
+#: library/includes/affiliates/admin_affiliates.php:49
+#@ ptthemes_404error_name
+msgid "Title"
+msgstr ""
+
+#: library/functions/category_checklist.php:351
+#: library/functions/category_checklist.php:388
+#@ ptthemes_404error_name
+msgid "Author"
+msgstr ""
+
+#: library/functions/category_checklist.php:352
+#: message.php:26
+#@ ptthemes_404error_name
+msgid "Categories"
+msgstr ""
+
+#: library/functions/category_checklist.php:353
+#@ ptthemes_404error_name
+msgid "Tags"
+msgstr ""
+
+#: library/functions/category_checklist.php:356
+#: library/functions/category_checklist.php:391
+#: library/functions/custom.php:1011
+#: library/includes/admin_manage_orders.php:303
+#: library/includes/view_orders.php:7
+#@ ptthemes_404error_name
+msgid "Status"
+msgstr ""
+
+#: library/functions/category_checklist.php:367
+#@ ptthemes_404error_name
+msgid "Media|media column header"
+msgstr ""
+
+#: library/functions/category_checklist.php:368
+#@ ptthemes_404error_name
+msgid "Description|media column header"
+msgstr ""
+
+#: library/functions/category_checklist.php:369
+#@ ptthemes_404error_name
+msgid "Date Added|media column header"
+msgstr ""
+
+#: library/functions/category_checklist.php:370
+#@ ptthemes_404error_name
+msgid "Appears with|media column header"
+msgstr ""
+
+#: library/functions/category_checklist.php:372
+#@ ptthemes_404error_name
+msgid "Location|media column header"
+msgstr ""
+
+#: library/functions/category_checklist.php:415
+#@ ptthemes_404error_name
+msgid "(no title)"
+msgstr ""
+
+#: library/functions/category_checklist.php:434
+#: library/functions/category_checklist.php:504
+#@ ptthemes_404error_name
+msgid "Unpublished"
+msgstr ""
+
+#: library/functions/category_checklist.php:437
+#: library/functions/category_checklist.php:441
+#@ ptthemes_404error_name
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: library/functions/category_checklist.php:447
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s from now"
+msgstr ""
+
+#: library/functions/category_checklist.php:449
+#: library/functions/category_checklist.php:757
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s ago"
+msgstr ""
+
+#: library/functions/category_checklist.php:451
+#: library/functions/category_checklist.php:786
+#@ ptthemes_404error_name
+msgid "Y/m/d"
+msgstr ""
+
+#: library/functions/category_checklist.php:461
+#@ ptthemes_404error_name
+msgid " &#8212; <strong>Private</strong>"
+msgstr ""
+
+#: library/functions/category_checklist.php:470
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s pending"
+msgstr ""
+
+#: library/functions/category_checklist.php:473
+#@ ptthemes_404error_name
+msgid "0"
+msgstr ""
+
+#: library/functions/category_checklist.php:473
+#@ ptthemes_404error_name
+msgid "1"
+msgstr ""
+
+#: library/functions/category_checklist.php:473
+#@ ptthemes_404error_name
+msgid "%"
+msgstr ""
+
+#: library/functions/category_checklist.php:490
+#, php-format
+#@ ptthemes_404error_name
+msgid "View \"%s\""
+msgstr ""
+
+#: library/functions/category_checklist.php:495
+#@ ptthemes_404error_name
+msgid "Published"
+msgstr ""
+
+#: library/functions/category_checklist.php:498
+#@ ptthemes_404error_name
+msgid "Scheduled"
+msgstr ""
+
+#: library/functions/category_checklist.php:501
+#@ ptthemes_404error_name
+msgid "Pending Review"
+msgstr ""
+
+#: library/functions/category_checklist.php:678
+#, php-format
+#@ ptthemes_404error_name
+msgid "e-mail: %s"
+msgstr ""
+
+#: library/functions/category_checklist.php:682
+#@ ptthemes_404error_name
+msgid "View posts by this author"
+msgstr ""
+
+#: library/functions/category_checklist.php:741
+#@ ptthemes_404error_name
+msgid "Edit comment"
+msgstr ""
+
+#: library/functions/category_checklist.php:759
+#@ ptthemes_404error_name
+msgid "Y/m/d \\a\\t g:i A"
+msgstr ""
+
+#: library/functions/category_checklist.php:784
+#, php-format
+#@ ptthemes_404error_name
+msgid "From %1$s, %2$s"
+msgstr ""
+
+#: library/functions/category_checklist.php:793
+#: library/functions/category_checklist.php:798
+#@ ptthemes_404error_name
+msgid "Approve this comment"
+msgstr ""
+
+#: library/functions/category_checklist.php:793
+#: library/functions/category_checklist.php:798
+#: message.php:180
+#@ ptthemes_404error_name
+msgid "Approve"
+msgstr ""
+
+#: library/functions/category_checklist.php:794
+#: library/functions/category_checklist.php:801
+#@ ptthemes_404error_name
+msgid "Unapprove this comment"
+msgstr ""
+
+#: library/functions/category_checklist.php:794
+#: library/functions/category_checklist.php:801
+#@ ptthemes_404error_name
+msgid "Unapprove"
+msgstr ""
+
+#: library/functions/category_checklist.php:805
+#@ ptthemes_404error_name
+msgid "Mark this comment as spam"
+msgstr ""
+
+#: library/functions/category_checklist.php:805
+#@ ptthemes_404error_name
+msgid "Spam"
+msgstr ""
+
+#: library/functions/category_checklist.php:806
+#: library/functions/category_checklist.php:896
+#: library/includes/admin_manage_coupon.php:57
+#: library/includes/admin_manage_coupon.php:76
+#: library/includes/admin_manage_orders.php:348
+#: library/includes/admin_product_edit.php:207
+#: library/includes/admin_product_edit.php:283
+#: library/includes/affiliates/admin_affiliates.php:75
+#@ ptthemes_404error_name
+msgid "Delete"
+msgstr ""
+
+#: library/functions/category_checklist.php:848
+#: library/functions/category_checklist.php:892
+#: library/functions/category_checklist.php:918
+#@ ptthemes_404error_name
+msgid "Key"
+msgstr ""
+
+#: library/functions/category_checklist.php:849
+#: library/functions/category_checklist.php:893
+#: library/functions/category_checklist.php:919
+#@ ptthemes_404error_name
+msgid "Value"
+msgstr ""
+
+#: library/functions/category_checklist.php:850
+#: library/includes/admin_shippings.php:199
+#: library/includes/affiliates/admin_affiliates.php:52
+#@ ptthemes_404error_name
+msgid "Action"
+msgstr ""
+
+#: library/functions/category_checklist.php:894
+#: library/includes/admin_order_detail.php:507
+#: library/includes/edit_profile.php:131
+#: library/includes/edit_profile.php:305
+#@ ptthemes_404error_name
+msgid "Update"
+msgstr ""
+
+#: library/functions/category_checklist.php:915
+#@ ptthemes_404error_name
+msgid "Add a new custom field:"
+msgstr ""
+
+#: library/functions/category_checklist.php:925
+#@ ptthemes_404error_name
+msgid "- Select -"
+msgstr ""
+
+#: library/functions/category_checklist.php:933
+#@ ptthemes_404error_name
+msgid "or"
+msgstr ""
+
+#: library/functions/category_checklist.php:941
+#@ ptthemes_404error_name
+msgid "Add Custom Field"
+msgstr ""
+
+#: library/functions/category_checklist.php:982
+#, php-format
+#@ ptthemes_404error_name
+msgid "%1$s%2$s, %3$s <br />@ %4$s : %5$s|1: month input, 2: day input, 3: year input, 4: hour input, 5: minute input"
+msgstr ""
+
+#: library/functions/category_checklist.php:1031
+#@ ptthemes_404error_name
+msgid "WordPress recommends a better browser"
+msgstr ""
+
+#: library/functions/category_checklist.php:1056
+#@ ptthemes_404error_name
+msgid "URL"
+msgstr ""
+
+#: library/functions/category_checklist.php:1061
+#@ ptthemes_404error_name
+msgid "Thumbnail linked to file"
+msgstr ""
+
+#: library/functions/category_checklist.php:1061
+#@ ptthemes_404error_name
+msgid "Image linked to file"
+msgstr ""
+
+#: library/functions/category_checklist.php:1065
+#@ ptthemes_404error_name
+msgid "Thumbnail linked to page"
+msgstr ""
+
+#: library/functions/category_checklist.php:1065
+#@ ptthemes_404error_name
+msgid "Image linked to page"
+msgstr ""
+
+#: library/functions/category_checklist.php:1070
+#@ ptthemes_404error_name
+msgid "Link to file"
+msgstr ""
+
+#: library/functions/category_checklist.php:1074
+#@ ptthemes_404error_name
+msgid "Link to page"
+msgstr ""
+
+#: library/functions/category_checklist.php:1130
+#@ ptthemes_404error_name
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: library/functions/category_checklist.php:1130
+#, php-format
+#@ ptthemes_404error_name
+msgid "Maximum size: %s"
+msgstr ""
+
+#: library/functions/category_checklist.php:1136
+#@ ptthemes_404error_name
+msgid "Upload file and import"
+msgstr ""
+
+#: library/functions/comments_functions.php:61
+#@ ptthemes_404error_name
+msgid "reply"
+msgstr ""
+
+#: library/functions/custom.php:663
+#@ ptthemes_404error_name
+msgid "View all posts and products"
+msgstr ""
+
+#: library/functions/custom.php:666
+#@ ptthemes_404error_name
+msgid "View only products"
+msgstr ""
+
+#: library/functions/custom.php:684
+#@ ptthemes_404error_name
+msgid "Is Taxable"
+msgstr ""
+
+#: library/functions/custom.php:685
+#@ ptthemes_404error_name
+msgid "Stock"
+msgstr ""
+
+#: library/functions/custom.php:686
+#@ ptthemes_404error_name
+msgid "Main Image"
+msgstr ""
+
+#: library/functions/custom.php:689
+#@ ptthemes_404error_name
+msgid "Digital Product"
+msgstr ""
+
+#: library/functions/custom.php:691
+#@ ptthemes_404error_name
+msgid "Thumbnails"
+msgstr ""
+
+#: library/functions/custom.php:694
+#@ ptthemes_404error_name
+msgid "Is Product"
+msgstr ""
+
+#: library/functions/custom.php:708
+#: library/functions/custom.php:722
+#: library/functions/custom.php:745
+#: library/functions/custom.php:757
+#@ ptthemes_404error_name
+msgid "Yes"
+msgstr ""
+
+#: library/functions/custom.php:711
+#: library/functions/custom.php:725
+#: library/functions/custom.php:748
+#: library/functions/custom.php:760
+#@ ptthemes_404error_name
+msgid "No"
+msgstr ""
+
+#: library/functions/custom.php:1008
+#: library/functions/general_functions.php:781
+#: library/includes/admin_manage_orders.php:298
+#: library/includes/view_downloads.php:4
+#: library/includes/view_orders.php:4
+#@ ptthemes_404error_name
+msgid "Order Number"
+msgstr ""
+
+#: library/functions/custom.php:1010
+#@ ptthemes_404error_name
+msgid "Bill Amount"
+msgstr ""
+
+#: library/functions/custom.php:1028
+#@ ptthemes_404error_name
+msgid "Sorry, Not a single order is there"
+msgstr ""
+
+#: library/functions/custom.php:1042
+#@ ptthemes_404error_name
+msgid "Shopping Cart Summary"
+msgstr ""
+
+#: library/functions/custom.php:1045
+#@ ptthemes_404error_name
+msgid "Latest Order List"
+msgstr ""
+
+#: library/functions/general_functions.php:20
+#@ ptthemes_404error_name
+msgid "Pay with"
+msgstr ""
+
+#: library/functions/general_functions.php:35
+#@ ptthemes_404error_name
+msgid "name"
+msgstr ""
+
+#: library/functions/general_functions.php:205
+#: library/functions/general_functions.php:868
+#: library/includes/admin_manage_coupon.php:55
+#: library/includes/normal_checkout.php:131
+#: library/includes/single_checkout.php:131
+#@ ptthemes_404error_name
+msgid "Discount Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:783
+#@ ptthemes_404error_name
+msgid "Order Date"
+msgstr ""
+
+#: library/functions/general_functions.php:786
+#: library/includes/admin_manage_orders.php:190
+#: library/includes/admin_order_detail.php:491
+#@ ptthemes_404error_name
+msgid "Order Status"
+msgstr ""
+
+#: library/functions/general_functions.php:794
+#: library/includes/checkout_userinfo.php:31
+#: library/includes/confirm.php:34
+#: message.php:49
+#@ ptthemes_404error_name
+msgid "User Information"
+msgstr ""
+
+#: library/functions/general_functions.php:807
+#: library/includes/checkout_userinfo.php:17
+#: library/includes/checkout_userinfo.php:72
+#: message.php:34
+#: message.php:164
+#@ ptthemes_404error_name
+msgid "Shipping Address"
+msgstr ""
+
+#: library/functions/general_functions.php:823
+#@ ptthemes_404error_name
+msgid "Payment Information"
+msgstr ""
+
+#: library/functions/general_functions.php:824
+#: message.php:50
+#@ ptthemes_404error_name
+msgid "Shipping Information"
+msgstr ""
+
+#: library/functions/general_functions.php:834
+#@ ptthemes_404error_name
+msgid "Products Information"
+msgstr ""
+
+#: library/functions/general_functions.php:838
+#: library/includes/confirm.php:108
+#: library/includes/normal_checkout.php:93
+#: library/includes/single_checkout.php:93
+#@ ptthemes_404error_name
+msgid "Product Name"
+msgstr ""
+
+#: library/functions/general_functions.php:841
+#@ ptthemes_404error_name
+msgid "Price Total"
+msgstr ""
+
+#: library/functions/general_functions.php:862
+#@ ptthemes_404error_name
+msgid "Sub Total"
+msgstr ""
+
+#: library/functions/general_functions.php:875
+#: library/includes/admin_coupon.php:117
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:70
+#: library/includes/affiliates/affiliate_sale_report.php:62
+#: library/includes/affiliates/export_report.php:22
+#: library/includes/cart_detail.php:154
+#: library/includes/normal_checkout.php:149
+#: library/includes/single_checkout.php:149
+#@ ptthemes_404error_name
+msgid "Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:882
+#: library/includes/cart_detail.php:141
+#: library/includes/normal_checkout.php:139
+#: library/includes/single_checkout.php:139
+#@ ptthemes_404error_name
+msgid "Tax Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:887
+#@ ptthemes_404error_name
+msgid "Total Payable Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:903
+#@ ptthemes_404error_name
+msgid "Please transfer amount of"
+msgstr ""
+
+#: library/functions/general_functions.php:903
+#@ ptthemes_404error_name
+msgid "to out bank with following information"
+msgstr ""
+
+#: library/functions/general_functions.php:904
+#@ ptthemes_404error_name
+msgid "payment for Order Number"
+msgstr ""
+
+#: library/functions/general_functions.php:905
+#@ ptthemes_404error_name
+msgid "Bank Name"
+msgstr ""
+
+#: library/functions/general_functions.php:906
+#@ ptthemes_404error_name
+msgid "Account Number"
+msgstr ""
+
+#: library/functions/general_functions.php:1188
+#@ ptthemes_404error_name
+msgid "out_of_stock"
+msgstr ""
+
+#: library/functions/general_functions.php:1394
+#: library/functions/general_functions.php:1399
+#@ ptthemes_404error_name
+msgid "Current stock is"
+msgstr ""
+
+#: library/functions/general_functions.php:1497
+#: library/functions/general_functions.php:1501
+#@ ptthemes_404error_name
+msgid "Out of Stock"
+msgstr ""
+
+#: library/functions/product.php:135
+#: library/functions/product_9july.php:131
+#@ ptthemes_404error_name
+msgid "select "
+msgstr ""
+
+#: library/functions/widgets_functions.php:420
+#@ ptthemes_404error_name
+msgid "Twitter Account ID:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:424
+#@ ptthemes_404error_name
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:428
+#@ ptthemes_404error_name
+msgid "Show Twitter Posts:"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:61
+#: library/includes/admin_paymet_settings.php:70
+#: library/includes/admin_shipping_settings.php:55
+#@ ptthemes_404error_name
+msgid "Settings"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:69
+#@ ptthemes_404error_name
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#: library/functions/yoast-posts.php:23
+#@ ptthemes_404error_name
+msgid "Yoast - Tweaking Websites"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:204
+#@ ptthemes_404error_name
+msgid "Bulk Upload"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:207
+#@ ptthemes_404error_name
+msgid "Uploaded successully."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:212
+#@ ptthemes_404error_name
+msgid "Select CSV file"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:224
+#@ ptthemes_404error_name
+msgid "You can download"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:224
+#@ ptthemes_404error_name
+msgid "sample CSV file"
+msgstr ""
+
+#: library/includes/admin_coupon.php:87
+#@ ptthemes_404error_name
+msgid "Edit Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:90
+#: library/includes/admin_manage_coupon.php:49
+#@ ptthemes_404error_name
+msgid "Add Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:96
+#@ ptthemes_404error_name
+msgid "Coupon code already exists, Please user different one."
+msgstr ""
+
+#: library/includes/admin_coupon.php:101
+#: library/includes/admin_manage_coupon.php:53
+#@ ptthemes_404error_name
+msgid "Coupon Code"
+msgstr ""
+
+#: library/includes/admin_coupon.php:106
+#: library/includes/admin_manage_coupon.php:54
+#@ ptthemes_404error_name
+msgid "Discount Type"
+msgstr ""
+
+#: library/includes/admin_coupon.php:109
+#@ ptthemes_404error_name
+msgid "Percentage"
+msgstr ""
+
+#: library/includes/admin_coupon.php:128
+#: library/includes/admin_paymet_settings.php:114
+#: library/includes/admin_shipping_settings.php:82
+#: library/includes/affiliates/admin_affiliates_frm.php:104
+#: message.php:182
+#@ ptthemes_404error_name
+msgid "Cancel"
+msgstr ""
+
+#: library/includes/admin_coupon.php:139
+#: library/includes/affiliates/admin_affiliates_frm.php:115
+#@ ptthemes_404error_name
+msgid "Percentage should be less than or equal to 100"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:38
+#@ ptthemes_404error_name
+msgid "Manage Coupons"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:41
+#@ ptthemes_404error_name
+msgid "Coupon updated successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:46
+#@ ptthemes_404error_name
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:56
+#: library/includes/admin_manage_coupon.php:75
+#: library/includes/admin_product_edit.php:204
+#: library/includes/admin_product_edit.php:280
+#: library/includes/affiliates/admin_affiliates.php:61
+#: library/includes/checkout_userinfo.php:17
+#: library/includes/normal_checkout.php:202
+#: library/includes/normal_checkout.php:214
+#@ ptthemes_404error_name
+msgid "Edit"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:144
+#@ ptthemes_404error_name
+msgid "Manage Orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:156
+#: library/includes/admin_manage_orders.php:201
+#: library/includes/admin_stock.php:73
+#: library/includes/admin_stock.php:82
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:44
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:37
+#: library/includes/affiliates/affiliate_sale_report.php:37
+#@ ptthemes_404error_name
+msgid "Search"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:181
+#@ ptthemes_404error_name
+msgid "Select Payment Type"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:213
+#@ ptthemes_404error_name
+msgid "List All Orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:299
+#@ ptthemes_404error_name
+msgid "Customer Name"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:300
+#@ ptthemes_404error_name
+msgid "Order Total"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:301
+#@ ptthemes_404error_name
+msgid "Payment Type"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:354
+#@ ptthemes_404error_name
+msgid "orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:365
+#@ ptthemes_404error_name
+msgid "No Orders Available"
+msgstr ""
+
+#: library/includes/admin_notification.php:20
+#: library/includes/admin_notification_edit.php:40
+#@ ptthemes_404error_name
+msgid "Manage Notification"
+msgstr ""
+
+#: library/includes/admin_notification.php:23
+#@ ptthemes_404error_name
+msgid "updated successfully."
+msgstr ""
+
+#: library/includes/admin_notification.php:128
+#: library/includes/admin_notification.php:157
+#@ ptthemes_404error_name
+msgid "File Name"
+msgstr ""
+
+#: library/includes/admin_notification.php:129
+#: library/includes/send_inquiry.php:87
+#: library/includes/tellafriend_form.php:59
+#: message.php:171
+#@ ptthemes_404error_name
+msgid "Subject"
+msgstr ""
+
+#: library/includes/admin_notification.php:130
+#: library/includes/admin_notification.php:158
+#@ ptthemes_404error_name
+msgid "Description"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:476
+#@ ptthemes_404error_name
+msgid "Order Detail of Order"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:502
+#: library/includes/send_inquiry.php:92
+#@ ptthemes_404error_name
+msgid "Comments"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:513
+#@ ptthemes_404error_name
+msgid "Back to Orders Listing"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:73
+#: library/includes/admin_shipping_settings.php:58
+#@ ptthemes_404error_name
+msgid "Updated Succesfully"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:79
+#@ ptthemes_404error_name
+msgid "Payment Method"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:83
+#@ ptthemes_404error_name
+msgid "Is Active"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:91
+#@ ptthemes_404error_name
+msgid "Display Order"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:14
+#@ ptthemes_404error_name
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:37
+#@ ptthemes_404error_name
+msgid "You are not allowed to delete this post."
+msgstr ""
+
+#: library/includes/admin_product_edit.php:41
+#: library/includes/admin_product_edit.php:44
+#@ ptthemes_404error_name
+msgid "Error in deleting..."
+msgstr ""
+
+#: library/includes/admin_product_edit.php:85
+#@ ptthemes_404error_name
+msgid "Edit Posts"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:105
+#, php-format
+#@ ptthemes_404error_name
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:110
+#@ ptthemes_404error_name
+msgid "Your post has been saved."
+msgstr ""
+
+#: library/includes/admin_product_edit.php:112
+#@ ptthemes_404error_name
+msgid "View post"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:114
+#@ ptthemes_404error_name
+msgid "Edit post"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:123
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s post updated."
+msgid_plural "%s posts updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/admin_product_edit.php:131
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s post not updated, somebody is editing it."
+msgid_plural "%s posts not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/admin_product_edit.php:136
+#, php-format
+#@ ptthemes_404error_name
+msgid "Post deleted."
+msgid_plural "%s posts deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/admin_product_edit.php:153
+#, php-format
+#@ ptthemes_404error_name
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/admin_product_edit.php:176
+#: library/includes/admin_product_edit.php:179
+#@ ptthemes_404error_name
+msgid "Search Posts"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:191
+#@ ptthemes_404error_name
+msgid "&laquo;"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:192
+#@ ptthemes_404error_name
+msgid "&raquo;"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:201
+#: library/includes/admin_product_edit.php:277
+#@ ptthemes_404error_name
+msgid "Bulk Actions"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:210
+#: library/includes/admin_product_edit.php:286
+#@ ptthemes_404error_name
+msgid "Apply"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:225
+#@ ptthemes_404error_name
+msgid "Show all dates"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:246
+#@ ptthemes_404error_name
+msgid "View all categories"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:251
+#@ ptthemes_404error_name
+msgid "Filter"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:256
+#, php-format
+#@ ptthemes_404error_name
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:264
+#@ ptthemes_404error_name
+msgid "List View"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:264
+#@ ptthemes_404error_name
+msgid "Excerpt View"
+msgstr ""
+
+#: library/includes/admin_product_edit.php:294
+#@ ptthemes_404error_name
+msgid "No posts found"
+msgstr ""
+
+#: library/includes/admin_settings.php:198
+#@ ptthemes_404error_name
+msgid "Shopping Cart General Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:207
+#@ ptthemes_404error_name
+msgid "Store Type"
+msgstr ""
+
+#: library/includes/admin_settings.php:216
+#@ ptthemes_404error_name
+msgid "Checkout Type (for \"Shopping Cart\" and \"Digital Shop\" only)"
+msgstr ""
+
+#: library/includes/admin_settings.php:223
+#@ ptthemes_404error_name
+msgid "Checkout/Login Method"
+msgstr ""
+
+#: library/includes/admin_settings.php:230
+#@ ptthemes_404error_name
+msgid "Send Registration Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:231
+#@ ptthemes_404error_name
+msgid "In case of Checkout as Guest do you want to send Registration Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:240
+#@ ptthemes_404error_name
+msgid "From Email Name"
+msgstr ""
+
+#: library/includes/admin_settings.php:244
+#@ ptthemes_404error_name
+msgid "From Email ID"
+msgstr ""
+
+#: library/includes/admin_settings.php:248
+#@ ptthemes_404error_name
+msgid "Default Currency (Ex.: USD)"
+msgstr ""
+
+#: library/includes/admin_settings.php:252
+#@ ptthemes_404error_name
+msgid "Default Currency Symbol (Ex.: $)"
+msgstr ""
+
+#: library/includes/admin_settings.php:256
+#@ ptthemes_404error_name
+msgid "Product Tax - apply to each products (%)"
+msgstr ""
+
+#: library/includes/admin_settings.php:259
+#@ ptthemes_404error_name
+msgid "Product Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:261
+#@ ptthemes_404error_name
+msgid "Product Image Path"
+msgstr ""
+
+#: library/includes/admin_settings.php:262
+#@ ptthemes_404error_name
+msgid "(Default folder is \"products_img\")"
+msgstr ""
+
+#: library/includes/admin_settings.php:266
+#@ ptthemes_404error_name
+msgid "Digital Product Path"
+msgstr ""
+
+#: library/includes/admin_settings.php:267
+#@ ptthemes_404error_name
+msgid "(Default folder is \"digital_products\")"
+msgstr ""
+
+#: library/includes/admin_settings.php:271
+#@ ptthemes_404error_name
+msgid "Display Product Weight"
+msgstr ""
+
+#: library/includes/admin_settings.php:278
+#@ ptthemes_404error_name
+msgid "Display \"Tell a Friend\" on Product detail page"
+msgstr ""
+
+#: library/includes/admin_settings.php:285
+#@ ptthemes_404error_name
+msgid "Display \"Add Comment\" on Product detail page"
+msgstr ""
+
+#: library/includes/admin_settings.php:292
+#@ ptthemes_404error_name
+msgid "Display \"Related Products\" on Product detail page"
+msgstr ""
+
+#: library/includes/admin_settings.php:298
+#@ ptthemes_404error_name
+msgid "Stock Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:300
+#@ ptthemes_404error_name
+msgid "Set email alert on minimum stock of Product"
+msgstr ""
+
+#: library/includes/admin_settings.php:308
+#@ ptthemes_404error_name
+msgid "Other Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:310
+#@ ptthemes_404error_name
+msgid "Enable SSL - https on checkout page"
+msgstr ""
+
+#: library/includes/admin_settings.php:317
+#@ ptthemes_404error_name
+msgid "Display Blog Page link on header navigation"
+msgstr ""
+
+#: library/includes/admin_settings.php:324
+#@ ptthemes_404error_name
+msgid "Display Store Page link on header navigation"
+msgstr ""
+
+#: library/includes/admin_settings.php:338
+#@ ptthemes_404error_name
+msgid "Display Number of Orders on Admin Dashboard"
+msgstr ""
+
+#: library/includes/admin_settings.php:342
+#@ ptthemes_404error_name
+msgid "Display Coupon code on checkout page"
+msgstr ""
+
+#: library/includes/admin_settings.php:349
+#@ ptthemes_404error_name
+msgid "Display Term and Conditions"
+msgstr ""
+
+#: library/includes/admin_settings.php:350
+#@ ptthemes_404error_name
+msgid "Display Term and Conditions checkbox at checkout page"
+msgstr ""
+
+#: library/includes/admin_settings.php:358
+#@ ptthemes_404error_name
+msgid "Registration Page Mandatory Fields"
+msgstr ""
+
+#: library/includes/admin_settings.php:359
+#@ ptthemes_404error_name
+msgid "the selected fields will be Mandatory Fields while collecting user information"
+msgstr ""
+
+#: library/includes/admin_settings.php:368
+#@ ptthemes_404error_name
+msgid "Login Page Top Content"
+msgstr ""
+
+#: library/includes/admin_shippings.php:185
+#@ ptthemes_404error_name
+msgid "Manage Shipping Options"
+msgstr ""
+
+#: library/includes/admin_shippings.php:196
+#@ ptthemes_404error_name
+msgid "Select"
+msgstr ""
+
+#: library/includes/admin_shippings.php:197
+#@ ptthemes_404error_name
+msgid "Method Name"
+msgstr ""
+
+#: library/includes/admin_stock.php:50
+#@ ptthemes_404error_name
+msgid "Manage Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:101
+#: library/includes/view_downloads.php:5
+#@ ptthemes_404error_name
+msgid "Products"
+msgstr ""
+
+#: library/includes/admin_stock.php:102
+#@ ptthemes_404error_name
+msgid "Opening Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:103
+#@ ptthemes_404error_name
+msgid "Sold Out"
+msgstr ""
+
+#: library/includes/admin_stock.php:104
+#@ ptthemes_404error_name
+msgid "Current Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:105
+#@ ptthemes_404error_name
+msgid "Low stock value"
+msgstr ""
+
+#: library/includes/admin_stock.php:106
+#@ ptthemes_404error_name
+msgid "Stock enabled?"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:24
+#@ ptthemes_404error_name
+msgid "Affiliates Share"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:45
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:38
+#: library/includes/affiliates/affiliate_sale_report.php:38
+#@ ptthemes_404error_name
+msgid "Default"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:61
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:54
+#: library/includes/affiliates/affiliate_sale_report.php:154
+#@ ptthemes_404error_name
+msgid "Export to Excel"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:67
+#: library/includes/affiliates/admin_affiliates_report.php:48
+#@ ptthemes_404error_name
+msgid "User Name"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:68
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:21
+#: library/includes/affiliates/admin_affiliates_report.php:49
+#@ ptthemes_404error_name
+msgid "Total Sale Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:69
+#: library/includes/affiliates/admin_affiliates_report.php:50
+#@ ptthemes_404error_name
+msgid "Total Share Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:101
+#@ ptthemes_404error_name
+msgid "No affiliates share available."
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:5
+#@ ptthemes_404error_name
+msgid "Affiliate Detail Report"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:15
+#@ ptthemes_404error_name
+msgid "'s Affiliate Detail Report"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:17
+#@ ptthemes_404error_name
+msgid "No of Transactions"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:19
+#@ ptthemes_404error_name
+msgid "Total Item Sold"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:23
+#@ ptthemes_404error_name
+msgid "Total Earn Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:66
+#: library/includes/affiliates/affiliate_sale_report.php:58
+#: library/includes/affiliates/export_report.php:18
+#@ ptthemes_404error_name
+msgid "Transaction ID"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:67
+#: library/includes/affiliates/affiliate_sale_report.php:59
+#: library/includes/affiliates/export_report.php:19
+#@ ptthemes_404error_name
+msgid "Payment Status"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:68
+#: library/includes/affiliates/affiliate_sale_report.php:60
+#: library/includes/affiliates/export_report.php:20
+#@ ptthemes_404error_name
+msgid "Item Name"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:71
+#: library/includes/affiliates/affiliate_sale_report.php:63
+#: library/includes/affiliates/export_report.php:23
+#@ ptthemes_404error_name
+msgid "Currency"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:72
+#: library/includes/affiliates/affiliate_sale_report.php:64
+#: library/includes/affiliates/export_report.php:24
+#@ ptthemes_404error_name
+msgid "Affiliate Share"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:37
+#@ ptthemes_404error_name
+msgid "Manage Affiliate Links"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:45
+#: library/includes/affiliates/admin_affiliates_frm.php:70
+#@ ptthemes_404error_name
+msgid "Add Affiliate Link"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:50
+#: library/includes/affiliates/admin_affiliates_frm.php:86
+#@ ptthemes_404error_name
+msgid "Link URL"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:51
+#@ ptthemes_404error_name
+msgid "Link Key"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:68
+#@ ptthemes_404error_name
+msgid "Hide"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:71
+#@ ptthemes_404error_name
+msgid "Show"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:67
+#@ ptthemes_404error_name
+msgid "Edit Affiliate Link"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:81
+#@ ptthemes_404error_name
+msgid "Link Title"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:91
+#@ ptthemes_404error_name
+msgid "Link Status"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_report.php:26
+#@ ptthemes_404error_name
+msgid "Affiliates Members"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:18
+#@ ptthemes_404error_name
+msgid "Affiliate Information"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:21
+#@ ptthemes_404error_name
+msgid "Affiliate Code"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:25
+#@ ptthemes_404error_name
+msgid "Paypal Account"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:34
+#@ ptthemes_404error_name
+msgid "Not Specified"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:38
+#@ ptthemes_404error_name
+msgid "Change"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:56
+#@ ptthemes_404error_name
+msgid "Sale Summary"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:81
+#@ ptthemes_404error_name
+msgid "Affiliate Links"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:41
+#: library/includes/registration.php:41
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:46
+#: library/includes/registration.php:46
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:58
+#: library/includes/registration.php:58
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:88
+#: library/includes/registration.php:79
+#, php-format
+#@ ptthemes_404error_name
+msgid "Username: %s"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:89
+#: library/includes/registration.php:80
+#, php-format
+#@ ptthemes_404error_name
+msgid "Password: %s"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:91
+#: library/includes/registration.php:82
+#, php-format
+#@ ptthemes_404error_name
+msgid "[%s] Your new password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:189
+#: library/includes/registration.php:388
+#@ ptthemes_404error_name
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:259
+#: library/includes/affiliates/affiliate_reg.php:331
+#: library/includes/registration.php:523
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:324
+#: library/includes/affiliates/affiliate_login.php:353
+#: library/includes/registration.php:591
+#: library/includes/registration.php:620
+#: message.php:139
+#@ ptthemes_404error_name
+msgid "Sign In"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:337
+#: library/includes/affiliates/affiliate_login.php:387
+#: library/includes/affiliates/affiliate_reg.php:403
+#: message.php:151
+#@ ptthemes_404error_name
+msgid "Username"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:343
+#: library/includes/affiliates/affiliate_login.php:393
+#: message.php:152
+#@ ptthemes_404error_name
+msgid "Password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:350
+#: library/includes/registration.php:617
+#@ ptthemes_404error_name
+msgid "Remember me on this computer"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:404
+#@ ptthemes_404error_name
+msgid "Username or E-mail"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:409
+#: message.php:135
+#@ ptthemes_404error_name
+msgid "Get New Password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:45
+#: library/includes/registration.php:112
+#: library/includes/single_page_checkout_insertuser.php:24
+#: message.php:103
+#@ ptthemes_404error_name
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:47
+#: library/includes/registration.php:114
+#: library/includes/single_page_checkout_insertuser.php:26
+#: message.php:102
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:50
+#: library/includes/registration.php:117
+#: message.php:101
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:54
+#: library/includes/registration.php:121
+#: library/includes/single_page_checkout_insertuser.php:33
+#: message.php:100
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:56
+#: library/includes/registration.php:123
+#: library/includes/single_page_checkout_insertuser.php:35
+#: message.php:99
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:59
+#: library/includes/registration.php:126
+#: message.php:98
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:107
+#: library/includes/registration.php:174
+#: library/includes/single_page_checkout_insertuser.php:69
+#, php-format
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:409
+#: message.php:153
+#@ ptthemes_404error_name
+msgid "E-mail"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:415
+#: library/includes/edit_profile.php:192
+#: library/includes/edit_profile.php:249
+#: library/includes/edit_profile.php:312
+#: message.php:154
+#@ ptthemes_404error_name
+msgid "First Name"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:421
+#: library/includes/edit_profile.php:198
+#: library/includes/edit_profile.php:255
+#: message.php:155
+#@ ptthemes_404error_name
+msgid "Last Name"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:452
+#: message.php:132
+#@ ptthemes_404error_name
+msgid "Create Account"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:462
+#: library/includes/registration.php:643
+#@ ptthemes_404error_name
+msgid "Please enter Username"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:468
+#@ ptthemes_404error_name
+msgid "Please enter E-mail"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:474
+#@ ptthemes_404error_name
+msgid "Please enter First Name"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:483
+#@ ptthemes_404error_name
+msgid "Please accept Terms and Conditions"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_sale_report.php:20
+#@ ptthemes_404error_name
+msgid "My Sale Report"
+msgstr ""
+
+#: library/includes/affiliates/affiliates_settings.php:43
+#@ ptthemes_404error_name
+msgid "Affiliate Settings"
+msgstr ""
+
+#: library/includes/blog_detail.php:22
+#: library/includes/product_detail.php:283
+#@ ptthemes_404error_name
+msgid "Tags : "
+msgstr ""
+
+#: library/includes/cart_detail.php:79
+#@ ptthemes_404error_name
+msgid "Product(s)"
+msgstr ""
+
+#: library/includes/cart_detail.php:108
+#@ ptthemes_404error_name
+msgid "Remove Item"
+msgstr ""
+
+#: library/includes/cart_detail.php:124
+#@ ptthemes_404error_name
+msgid "Update Cart"
+msgstr ""
+
+#: library/includes/cart_detail.php:131
+#: library/includes/normal_checkout.php:124
+#: library/includes/single_checkout.php:124
+#@ ptthemes_404error_name
+msgid "Sub Total Amount"
+msgstr ""
+
+#: library/includes/cart_detail.php:170
+#: library/includes/confirm.php:139
+#@ ptthemes_404error_name
+msgid "Total Amount"
+msgstr ""
+
+#: library/includes/cart_detail.php:185
+#: library/includes/confirm.php:92
+#@ ptthemes_404error_name
+msgid "Shipping Methods"
+msgstr ""
+
+#: library/includes/cart_detail.php:222
+#@ ptthemes_404error_name
+msgid "Discount Code"
+msgstr ""
+
+#: library/includes/cart_detail.php:225
+#@ ptthemes_404error_name
+msgid "Recalculate"
+msgstr ""
+
+#: library/includes/cart_detail.php:234
+#: library/includes/cart_detail.php:253
+#@ ptthemes_404error_name
+msgid "Continue Shopping"
+msgstr ""
+
+#: library/includes/checkout_buynow.php:31
+#: library/includes/checkout_cart.php:10
+#: library/includes/checkout_cart_2.php:10
+#@ ptthemes_404error_name
+msgid "Please select size"
+msgstr ""
+
+#: library/includes/checkout_buynow.php:45
+#: library/includes/checkout_cart.php:24
+#: library/includes/checkout_cart_2.php:24
+#@ ptthemes_404error_name
+msgid "Please select color"
+msgstr ""
+
+#: library/includes/checkout_cart.php:36
+#: library/includes/checkout_cart.php:40
+#: library/includes/checkout_cart_2.php:36
+#: library/includes/checkout_cart_2.php:40
+#: library/includes/checkout_cart_2.php:44
+#@ ptthemes_404error_name
+msgid "processing ..."
+msgstr ""
+
+#: library/includes/checkout_cart.php:87
+#: library/includes/checkout_cart_2.php:91
+#@ ptthemes_404error_name
+msgid "Added in Cart"
+msgstr ""
+
+#: library/includes/checkout_cart.php:87
+#: library/includes/checkout_cart_2.php:91
+#@ ptthemes_404error_name
+msgid "View Cart Detail"
+msgstr ""
+
+#: library/includes/checkout_cart.php:87
+#: library/includes/checkout_cart_2.php:91
+#@ ptthemes_404error_name
+msgid "Checkout &raquo;"
+msgstr ""
+
+#: library/includes/checkout_cart.php:169
+#: library/includes/checkout_cart_2.php:150
+#@ ptthemes_404error_name
+msgid "Qty:"
+msgstr ""
+
+#: library/includes/checkout_cart.php:192
+#: library/includes/checkout_cart_2.php:171
+#@ ptthemes_404error_name
+msgid "Add to Shopping Cart"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:9
+#: library/includes/checkout_userinfo.php:66
+#: message.php:33
+#: message.php:165
+#@ ptthemes_404error_name
+msgid "Billing Address"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:32
+#: library/includes/send_inquiry.php:77
+#: library/includes/tellafriend_form.php:43
+#: message.php:170
+#@ ptthemes_404error_name
+msgid "Your Name"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:33
+#@ ptthemes_404error_name
+msgid "Email"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:67
+#: library/includes/checkout_userinfo.php:73
+#: message.php:163
+#@ ptthemes_404error_name
+msgid "Address"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:68
+#: library/includes/checkout_userinfo.php:74
+#: library/includes/edit_profile.php:216
+#: library/includes/edit_profile.php:273
+#: library/includes/edit_profile.php:348
+#: message.php:159
+#@ ptthemes_404error_name
+msgid "City"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:69
+#: library/includes/checkout_userinfo.php:75
+#: library/includes/edit_profile.php:222
+#: library/includes/edit_profile.php:279
+#: library/includes/edit_profile.php:361
+#: message.php:160
+#@ ptthemes_404error_name
+msgid "State"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:70
+#: library/includes/checkout_userinfo.php:76
+#: library/includes/edit_profile.php:228
+#: library/includes/edit_profile.php:285
+#: library/includes/edit_profile.php:374
+#: library/includes/single_checkout.php:332
+#: message.php:161
+#@ ptthemes_404error_name
+msgid "Country"
+msgstr ""
+
+#: library/includes/checkout_userinfo.php:71
+#: library/includes/checkout_userinfo.php:77
+#@ ptthemes_404error_name
+msgid "Postalcode"
+msgstr ""
+
+#: library/includes/confirm.php:18
+#@ ptthemes_404error_name
+msgid "Confirmation Page"
+msgstr ""
+
+#: library/includes/confirm.php:35
+#@ ptthemes_404error_name
+msgid "Billing Information"
+msgstr ""
+
+#: library/includes/confirm.php:69
+#@ ptthemes_404error_name
+msgid "Payment Methods"
+msgstr ""
+
+#: library/includes/confirm.php:104
+#@ ptthemes_404error_name
+msgid "Cart Information"
+msgstr ""
+
+#: library/includes/confirm.php:168
+#@ ptthemes_404error_name
+msgid "Back"
+msgstr ""
+
+#: library/includes/confirm.php:178
+#: library/includes/normal_checkout.php:180
+#: library/includes/single_checkout.php:180
+#@ ptthemes_404error_name
+msgid "Confirm"
+msgstr ""
+
+#: library/includes/download.php:27
+#: library/includes/download.php:78
+#@ ptthemes_404error_name
+msgid "Download Page"
+msgstr ""
+
+#: library/includes/download.php:31
+#@ ptthemes_404error_name
+msgid "Sorry, The file you are trying to Download is not available right now."
+msgstr ""
+
+#: library/includes/download.php:81
+#@ ptthemes_404error_name
+msgid "The link you are trying to download is not a Valid link. Please Check once."
+msgstr ""
+
+#: library/includes/edit_profile.php:113
+#@ ptthemes_404error_name
+msgid "Change Password"
+msgstr ""
+
+#: library/includes/edit_profile.php:116
+#@ ptthemes_404error_name
+msgid "Password Changed successfully."
+msgstr ""
+
+#: library/includes/edit_profile.php:123
+#@ ptthemes_404error_name
+msgid "New Password"
+msgstr ""
+
+#: library/includes/edit_profile.php:129
+#@ ptthemes_404error_name
+msgid "Confirm New Password"
+msgstr ""
+
+#: library/includes/edit_profile.php:145
+#@ ptthemes_404error_name
+msgid "Please enter New Password"
+msgstr ""
+
+#: library/includes/edit_profile.php:151
+#@ ptthemes_404error_name
+msgid "Please enter New Password minimum 5 chars"
+msgstr ""
+
+#: library/includes/edit_profile.php:157
+#@ ptthemes_404error_name
+msgid "Please enter Confirm New Password"
+msgstr ""
+
+#: library/includes/edit_profile.php:163
+#@ ptthemes_404error_name
+msgid "Please enter Confirm New Password minimum 5 chars"
+msgstr ""
+
+#: library/includes/edit_profile.php:169
+#@ ptthemes_404error_name
+msgid "New Password and Confirm New Password should be same"
+msgstr ""
+
+#: library/includes/edit_profile.php:204
+#: library/includes/edit_profile.php:261
+#: library/includes/edit_profile.php:322
+#: message.php:157
+#@ ptthemes_404error_name
+msgid "Address1"
+msgstr ""
+
+#: library/includes/edit_profile.php:210
+#: library/includes/edit_profile.php:267
+#: library/includes/edit_profile.php:335
+#: message.php:158
+#@ ptthemes_404error_name
+msgid "Address2"
+msgstr ""
+
+#: library/includes/edit_profile.php:234
+#: library/includes/edit_profile.php:291
+#: library/includes/edit_profile.php:387
+#: message.php:162
+#@ ptthemes_404error_name
+msgid "Postal Code"
+msgstr ""
+
+#: library/includes/featured-page2.php:29
+#@ ptthemes_404error_name
+msgid "Latest Products"
+msgstr ""
+
+#: library/includes/latest_products.php:100
+#@ ptthemes_404error_name
+msgid "View Store"
+msgstr ""
+
+#: library/includes/normal_checkout.php:90
+#: library/includes/single_checkout.php:90
+#@ ptthemes_404error_name
+msgid "Your Selection"
+msgstr ""
+
+#: library/includes/normal_checkout.php:154
+#: library/includes/single_checkout.php:154
+#@ ptthemes_404error_name
+msgid "Final Amount"
+msgstr ""
+
+#: library/includes/normal_checkout.php:170
+#@ ptthemes_404error_name
+msgid "I accept the terms and conditions"
+msgstr ""
+
+#: library/includes/normal_checkout.php:179
+#: library/includes/single_checkout.php:179
+#@ ptthemes_404error_name
+msgid "&laquo; Back"
+msgstr ""
+
+#: library/includes/normal_checkout.php:246
+#: library/includes/single_checkout.php:230
+#@ ptthemes_404error_name
+msgid "Please accept the terms and conditions"
+msgstr ""
+
+#: library/includes/order_detail.php:16
+#@ ptthemes_404error_name
+msgid "Order Detail Page"
+msgstr ""
+
+#: library/includes/ordersuccess.php:69
+#@ ptthemes_404error_name
+msgid "<p>Thank you, your order has been successfully received.</p>Thank you for shopping at [#$store_name#]."
+msgstr ""
+
+#: library/includes/product_detail.php:71
+#: library/includes/product_detail.php:166
+#@ ptthemes_404error_name
+msgid "Regular Price"
+msgstr ""
+
+#: library/includes/product_detail.php:72
+#: library/includes/product_detail.php:167
+#@ ptthemes_404error_name
+msgid "Sale Price"
+msgstr ""
+
+#: library/includes/product_detail.php:84
+#: library/includes/product_detail.php:179
+#: message.php:187
+#@ ptthemes_404error_name
+msgid "Color"
+msgstr ""
+
+#: library/includes/product_detail.php:92
+#: library/includes/product_detail.php:187
+#: message.php:188
+#@ ptthemes_404error_name
+msgid "Size"
+msgstr ""
+
+#: library/includes/product_detail.php:98
+#: library/includes/product_detail.php:193
+#@ ptthemes_404error_name
+msgid "Size Chart"
+msgstr ""
+
+#: library/includes/product_detail.php:253
+#@ ptthemes_404error_name
+msgid "Print"
+msgstr ""
+
+#: library/includes/product_detail.php:255
+#@ ptthemes_404error_name
+msgid "Share This"
+msgstr ""
+
+#: library/includes/product_detail.php:260
+#@ ptthemes_404error_name
+msgid "RSS"
+msgstr ""
+
+#: library/includes/registration.php:649
+#@ ptthemes_404error_name
+msgid "Please enter Password"
+msgstr ""
+
+#: library/includes/related_products.php:6
+#@ ptthemes_404error_name
+msgid "Related Products"
+msgstr ""
+
+#: library/includes/send_inquiry.php:82
+#: library/includes/tellafriend_form.php:55
+#: message.php:45
+#@ ptthemes_404error_name
+msgid "Email Address"
+msgstr ""
+
+#: library/includes/send_inquiry.php:99
+#: library/includes/tellafriend_form.php:68
+#@ ptthemes_404error_name
+msgid "Send Email"
+msgstr ""
+
+#: library/includes/send_inquiry.php:103
+#@ ptthemes_404error_name
+msgid "Back to Product Detail"
+msgstr ""
+
+#: library/includes/send_inquiry.php:124
+#: library/includes/tellafriend_form.php:78
+#@ ptthemes_404error_name
+msgid "Please enter Your Name"
+msgstr ""
+
+#: library/includes/send_inquiry.php:130
+#: library/includes/tellafriend_form.php:84
+#@ ptthemes_404error_name
+msgid "Please enter Your Email Address"
+msgstr ""
+
+#: library/includes/send_inquiry.php:136
+#: library/includes/tellafriend_form.php:102
+#@ ptthemes_404error_name
+msgid "Please enter Subject"
+msgstr ""
+
+#: library/includes/single_checkout.php:23
+#@ ptthemes_404error_name
+msgid "<div style='color:red'>Select Payment method to continue.</div><br>"
+msgstr ""
+
+#: library/includes/single_checkout.php:38
+#: message.php:36
+#@ ptthemes_404error_name
+msgid "Select Payment Method"
+msgstr ""
+
+#: library/includes/single_checkout.php:170
+#@ ptthemes_404error_name
+msgid " I accept the terms and conditions"
+msgstr ""
+
+#: library/includes/single_checkout.php:202
+#: message.php:35
+#@ ptthemes_404error_name
+msgid "Shipping Method"
+msgstr ""
+
+#: library/includes/single_checkout.php:293
+#@ ptthemes_404error_name
+msgid "Please enter Address"
+msgstr ""
+
+#: library/includes/single_checkout.php:306
+#@ ptthemes_404error_name
+msgid "Please enter City"
+msgstr ""
+
+#: library/includes/single_checkout.php:319
+#@ ptthemes_404error_name
+msgid "Please enter State"
+msgstr ""
+
+#: library/includes/single_checkout.php:345
+#@ ptthemes_404error_name
+msgid "Please enter Postal Code"
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:29
+#@ ptthemes_404error_name
+msgid "<strong>ERROR</strong>:  This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/tellafriend_form.php:47
+#@ ptthemes_404error_name
+msgid "Your Email Address"
+msgstr ""
+
+#: library/includes/tellafriend_form.php:51
+#@ ptthemes_404error_name
+msgid "Friend Name"
+msgstr ""
+
+#: library/includes/tellafriend_form.php:63
+#@ ptthemes_404error_name
+msgid "Your Comments"
+msgstr ""
+
+#: library/includes/tellafriend_form.php:64
+#@ ptthemes_404error_name
+msgid "Hello, I am sending information about"
+msgstr ""
+
+#: library/includes/tellafriend_form.php:90
+#@ ptthemes_404error_name
+msgid "Please enter Your Friend Name"
+msgstr ""
+
+#: library/includes/tellafriend_form.php:96
+#@ ptthemes_404error_name
+msgid "Please enter Your Friend Email"
+msgstr ""
+
+#: library/includes/view_downloads.php:1
+#@ ptthemes_404error_name
+msgid "My Downloads"
+msgstr ""
+
+#: library/includes/view_orders.php:1
+#@ ptthemes_404error_name
+msgid "My Orders"
+msgstr ""
+
+#: library/includes/view_orders.php:40
+#@ ptthemes_404error_name
+msgid "<p>Not a single Order placed</p>"
+msgstr ""
+
+#: library/payment/2co/2co_response.php:62
+#@ ptthemes_404error_name
+msgid "Processing for 2 checkout, Please wait ...."
+msgstr ""
+
+#: library/payment/googlechkout/googlechkout_response.php:70
+#@ ptthemes_404error_name
+msgid "Processing for Google Checkout, Please wait ...."
+msgstr ""
+
+#: library/payment/paypal/paypal_response.php:45
+#@ ptthemes_404error_name
+msgid "Processing for Paypal, Please wait ...."
+msgstr ""
+
+#: library/payment/worldpay/worldpay_response.php:38
+#@ ptthemes_404error_name
+msgid "Processing for WorldPay, Please wait ...."
+msgstr ""
+
+#: message.php:3
+#@ ptthemes_404error_name
+msgid "Email to a Friend"
+msgstr ""
+
+#: message.php:4
+#@ ptthemes_404error_name
+msgid "Inform a Friend"
+msgstr ""
+
+#: message.php:8
+#@ ptthemes_404error_name
+msgid "Thank you, your inquiry has been sent."
+msgstr ""
+
+#: message.php:9
+#@ ptthemes_404error_name
+msgid "Send Inquiry"
+msgstr ""
+
+#: message.php:10
+#@ ptthemes_404error_name
+msgid "Inquiry"
+msgstr ""
+
+#: message.php:11
+#@ ptthemes_404error_name
+msgid "Here is an Inquiry for you related to"
+msgstr ""
+
+#: message.php:14
+#@ ptthemes_404error_name
+msgid "Welcome"
+msgstr ""
+
+#: message.php:15
+#@ ptthemes_404error_name
+msgid "Hello Guest"
+msgstr ""
+
+#: message.php:17
+#: message.php:148
+#@ ptthemes_404error_name
+msgid "Login"
+msgstr ""
+
+#: message.php:18
+#@ ptthemes_404error_name
+msgid "Home"
+msgstr "My Home"
+
+#: message.php:19
+#: store.php:30
+#@ ptthemes_404error_name
+msgid "Store"
+msgstr ""
+
+#: message.php:21
+#: message.php:41
+#@ ptthemes_404error_name
+msgid "My Account"
+msgstr ""
+
+#: message.php:22
+#@ ptthemes_404error_name
+msgid "Register"
+msgstr ""
+
+#: message.php:23
+#@ ptthemes_404error_name
+msgid "Join Our Affiliate Program"
+msgstr ""
+
+#: message.php:24
+#@ ptthemes_404error_name
+msgid "Shopping Cart"
+msgstr ""
+
+#: message.php:27
+#@ ptthemes_404error_name
+msgid "item <br /> in your Shopping Bag"
+msgstr ""
+
+#: message.php:28
+#@ ptthemes_404error_name
+msgid "cart is empty."
+msgstr ""
+
+#: message.php:29
+#@ ptthemes_404error_name
+msgid "View Cart"
+msgstr ""
+
+#: message.php:38
+#@ ptthemes_404error_name
+msgid "Select Payment method to continue."
+msgstr ""
+
+#: message.php:42
+#@ ptthemes_404error_name
+msgid "want to become our affiliate?"
+msgstr ""
+
+#: message.php:43
+#@ ptthemes_404error_name
+msgid "My Personal Information"
+msgstr ""
+
+#: message.php:44
+#@ ptthemes_404error_name
+msgid "Name"
+msgstr ""
+
+#: message.php:46
+#@ ptthemes_404error_name
+msgid "Edit Profile"
+msgstr ""
+
+#: message.php:51
+#: message.php:130
+#: message.php:143
+#@ ptthemes_404error_name
+msgid "Personal Information"
+msgstr ""
+
+#: message.php:52
+#@ ptthemes_404error_name
+msgid "Your Information updated successfully."
+msgstr ""
+
+#: message.php:55
+#@ ptthemes_404error_name
+msgid "My Shopping Cart"
+msgstr ""
+
+#: message.php:56
+#@ ptthemes_404error_name
+msgid "Please Enter Coupon Code"
+msgstr ""
+
+#: message.php:57
+#@ ptthemes_404error_name
+msgid "Sorry! your cart is empty. Select product(s) to continue."
+msgstr ""
+
+#: message.php:58
+#@ ptthemes_404error_name
+msgid "Not a valid Coupon. Please enter correct one."
+msgstr ""
+
+#: message.php:59
+#@ ptthemes_404error_name
+msgid "Sorry, the Cart is empty.  Select Products via Continue Shopping."
+msgstr ""
+
+#: message.php:63
+#@ ptthemes_404error_name
+msgid "Affiliates Login"
+msgstr ""
+
+#: message.php:64
+#@ ptthemes_404error_name
+msgid "Affiliate Login"
+msgstr ""
+
+#: message.php:65
+#@ ptthemes_404error_name
+msgid "Affiliate Registration"
+msgstr ""
+
+#: message.php:68
+#@ ptthemes_404error_name
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr ""
+
+#: message.php:69
+#@ ptthemes_404error_name
+msgid "You are now logged out."
+msgstr ""
+
+#: message.php:70
+#@ ptthemes_404error_name
+msgid "Affiliate registration is currently not allowed."
+msgstr ""
+
+#: message.php:71
+#@ ptthemes_404error_name
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: message.php:72
+#@ ptthemes_404error_name
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: message.php:75
+#: message.php:128
+#@ ptthemes_404error_name
+msgid "A password will be e-mailed to you for future use."
+msgstr ""
+
+#: message.php:76
+#: message.php:85
+#@ ptthemes_404error_name
+msgid "already a member?"
+msgstr ""
+
+#: message.php:77
+#@ ptthemes_404error_name
+msgid "new user?"
+msgstr ""
+
+#: message.php:78
+#@ ptthemes_404error_name
+msgid "Register Now"
+msgstr ""
+
+#: message.php:79
+#@ ptthemes_404error_name
+msgid "forget password?"
+msgstr ""
+
+#: message.php:81
+#@ ptthemes_404error_name
+msgid "Active Affiliates"
+msgstr ""
+
+#: message.php:82
+#@ ptthemes_404error_name
+msgid "Affiliate Registration Page URL"
+msgstr ""
+
+#: message.php:83
+#@ ptthemes_404error_name
+msgid "Affiliate Login Page URL"
+msgstr ""
+
+#: message.php:86
+#@ ptthemes_404error_name
+msgid "Sign Up"
+msgstr ""
+
+#: message.php:89
+#@ ptthemes_404error_name
+msgid "Affiliates Share Amount"
+msgstr ""
+
+#: message.php:90
+#@ ptthemes_404error_name
+msgid "(Default Share Amount is 0%)"
+msgstr ""
+
+#: message.php:91
+#@ ptthemes_404error_name
+msgid "Affiliates Cookie Alive time (in Days)"
+msgstr ""
+
+#: message.php:92
+#@ ptthemes_404error_name
+msgid "(Default alive time is 1 day)"
+msgstr ""
+
+#: message.php:93
+#@ ptthemes_404error_name
+msgid "Registration Page Content Top"
+msgstr ""
+
+#: message.php:94
+#@ ptthemes_404error_name
+msgid "(This content will show at top in affiliate registration page content area)"
+msgstr ""
+
+#: message.php:95
+#@ ptthemes_404error_name
+msgid "Registration Page Content Bottom"
+msgstr ""
+
+#: message.php:96
+#@ ptthemes_404error_name
+msgid "(This content will show at bottom in affiliate registration page content area)"
+msgstr ""
+
+#: message.php:97
+#@ ptthemes_404error_name
+msgid "I accept the Terms &amp; Conditions of the [#$store_name#] affiliate program"
+msgstr ""
+
+#: message.php:104
+#@ ptthemes_404error_name
+msgid "Terms &amp; Conditions text"
+msgstr ""
+
+#: message.php:105
+#@ ptthemes_404error_name
+msgid "Set Terms &amp; Conditions text beside checkbox on affiliate registration page"
+msgstr ""
+
+#: message.php:109
+#@ ptthemes_404error_name
+msgid "Please Refresh the page if any effect not appear"
+msgstr ""
+
+#: message.php:112
+#@ ptthemes_404error_name
+msgid "Checkout as Guest"
+msgstr ""
+
+#: message.php:115
+#@ ptthemes_404error_name
+msgid "Payment Cancellation"
+msgstr ""
+
+#: message.php:116
+#@ ptthemes_404error_name
+msgid "We are sorry for Cancellation of your order payment."
+msgstr ""
+
+#: message.php:119
+#@ ptthemes_404error_name
+msgid "Payment Success"
+msgstr ""
+
+#: message.php:120
+#@ ptthemes_404error_name
+msgid "Thank you for Shipping"
+msgstr ""
+
+#: message.php:121
+#@ ptthemes_404error_name
+msgid "Your payment has been successfully received and your order will be processed for shipping.<br>"
+msgstr ""
+
+#: message.php:122
+#@ ptthemes_404error_name
+msgid "Thank you for shopping at"
+msgstr ""
+
+#: message.php:125
+#@ ptthemes_404error_name
+msgid "Thank You"
+msgstr ""
+
+#: message.php:129
+#: message.php:145
+#@ ptthemes_404error_name
+msgid "Your Information"
+msgstr ""
+
+#: message.php:131
+#@ ptthemes_404error_name
+msgid "Indicates mandatory fields"
+msgstr ""
+
+#: message.php:133
+#@ ptthemes_404error_name
+msgid "Forgot Password?"
+msgstr ""
+
+#: message.php:134
+#@ ptthemes_404error_name
+msgid "Username or E-mail:"
+msgstr ""
+
+#: message.php:137
+#@ ptthemes_404error_name
+msgid "Register &amp; Checkout"
+msgstr ""
+
+#: message.php:138
+#@ ptthemes_404error_name
+msgid "Click below to register and check out."
+msgstr ""
+
+#: message.php:140
+#@ ptthemes_404error_name
+msgid "Click below to Sign In if you have previously registered."
+msgstr ""
+
+#: message.php:141
+#@ ptthemes_404error_name
+msgid "Guest Checkout"
+msgstr ""
+
+#: message.php:142
+#@ ptthemes_404error_name
+msgid "Click below to checkout without registering."
+msgstr ""
+
+#: message.php:144
+#@ ptthemes_404error_name
+msgid "Indicates Mendatory"
+msgstr ""
+
+#: message.php:146
+#@ ptthemes_404error_name
+msgid ""
+"<p>Please select one of the options below to continue.</p>\n"
+"\t<p>If you choose to register while checking out an account will be created for you so next time you can simply Sign In without having to re-enter your information.</p>"
+msgstr ""
+
+#: message.php:156
+#@ ptthemes_404error_name
+msgid "Location Info"
+msgstr ""
+
+#: message.php:168
+#@ ptthemes_404error_name
+msgid "Thank you. Your email sent successfully"
+msgstr ""
+
+#: message.php:169
+#@ ptthemes_404error_name
+msgid "Email address"
+msgstr ""
+
+#: message.php:172
+#@ ptthemes_404error_name
+msgid "Message"
+msgstr ""
+
+#: message.php:173
+#@ ptthemes_404error_name
+msgid "Send"
+msgstr ""
+
+#: message.php:176
+#@ ptthemes_404error_name
+msgid "Buy Now"
+msgstr ""
+
+#: message.php:179
+#@ ptthemes_404error_name
+msgid "Pending"
+msgstr ""
+
+#: message.php:181
+#@ ptthemes_404error_name
+msgid "Reject"
+msgstr ""
+
+#: message.php:183
+#@ ptthemes_404error_name
+msgid "Shipping"
+msgstr ""
+
+#: message.php:184
+#@ ptthemes_404error_name
+msgid "Delivered"
+msgstr ""
+
+#: message.php:189
+#@ ptthemes_404error_name
+msgid "pics"
+msgstr ""
+
+#: product_listing.php:43
+#: store.php:57
+#@ ptthemes_404error_name
+msgid "Switch View"
+msgstr ""
+
+#: product_listing.php:97
+#: store.php:110
+#@ ptthemes_404error_name
+msgid "View Details"
+msgstr ""
+
+#: search.php:17
+#, php-format
+#@ ptthemes_404error_name
+msgid "%s"
+msgstr ""
+

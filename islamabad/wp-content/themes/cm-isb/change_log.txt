@@ -1,0 +1,169 @@
+6th - aug - 2010 (affiliate members listing problem - solved)
+-------------------------------------------------------------------
+library/includes/affiliates/admin_affiliate_sale_report_default.php
+library/includes/affiliates/admin_affiliates_report.php
+library/includes/affiliates/affiliate_account.php
+library/includes/affiliates/affiliates_settings.php
+
+
+1st - Aug, 2010 (order detail & email - discount,tax,shipping amount problem && digital download problem solved)
+---------------------------------------------
+library/includes/view_downloads.php -- digital download problem
+library/functions/general_functions.php -- order detail & email - discount,tax,shipping amount problem
+
+
+28th - July, 2010 (localization issue solved)
+---------------------------------------------
+functions.php
+
+27rd - July, 2010 (after change password - login problem)
+---------------------------------------------
+library/includes/edit_profile.php
+library/includes/view_account.php
+
+23rd - July, 2010 (after change password - login problem)
+---------------------------------------------
+library/includes/registraton.php
+library/includes/checkout.php
+library/includes/order_detail.php
+library/includes/payment.php
+library/includes/veiw_account.php
+library/includes/affiliates/affiliate_reg.php
+library/includes/affiliates/affiliate_login.php
+
+
+23th - July, 2010 (IE8 checkout page & IE6 dropdown menu )
+---------------------------------------------
+header.php file
+footer.php
+library/includes/single_checkout.php
+index.php  -- store page file including chaged
+
+
+15th - July, 2010 (term and conditions settins on checkout page + stock management)
+---------------------------------------------
+index.php
+library/includes/checkout_cart.php
+library/includes/checkout_cart_2.php
+library/includes/admin_setting.php
+library/functions/general_functions.php
+library/functions/cart.php
+
+9th - July, 2010 (stock management)
+---------------------------------------------
+index.php
+library/includes/cart_detail.php
+library/functions/general_functions.php
+
+3rd - July, 2010 (digital product download issue - solved)
+---------------------------------------------
+index.php
+
+1st - July, 2010 
+---------------------------------------------
+index.php  - add to cart - currency symboll -  position setting
+library/includes/registration.php  - auto login while registration
+library/includes/admin_manage_orders.php  - order delete problem
+
+
+30th - June, 2010 (email notifications problem)
+---------------------------------------------
+library/includes/admin_notification.php
+library/includes/admin_order_detail.php
+library/includes/payment.php
+library/includes/ipn_process.php
+library/includes/cancel.php
+library/includes/return.php
+library/includes/ordersucces.php
+
+28th - June, 2010 
+---------------------------------------------
+header.php - blog link changed
+
+25th - June, 2010 (stock management problem on product detail page - solved)
+---------------------------------------------
+library/functions/general_functions.php
+library/functions/product.php
+
+
+24th - June, 2010 (SSL url settings while checkout)
+---------------------------------------------
+library/includes/normal_checkout.php
+library/includes/admin_settings.php
+libarary/functions/general_functions.php
+
+
+23th - June, 2010 (email notification problem solved)
+---------------------------------------------
+library/includes/admin_notification.php
+library/includes/admin_notification_edit.php
+library/includes/payment.php -- guest checkout problem - solved
+
+23th - June, 2010 (localization)
+--------------------------------------------
+library/includes/blog_detail.php
+library/includes/product_detail.php
+library/functions/yoast-posts.php
+
+
+22th - June, 2010 (image upload problem in wp 3.0)
+--------------------------------------------
+functions.php
+
+14th - June, 2010 (affiliate setting)
+--------------------------------------------
+library/includes/affiliates/set_affiliate_share.php
+
+14th June 2010 (custom affiliate link formating)
+--------------------------------------------------
+library/functions/custom.php
+library/includes/product_detail.php
+
+=============================================================
+DATA IMPORT PROBLEM AND SOLUTION FOR PRODUCT IMAGES
+=============================================================
+while export database and image now showing or product detail has gone, 
+just export the "wp_postmeta" table from working database and import to the new database.
+now place below script in index.php at top and set "$search_val" and "$replace_val" accordingly.
+and execute the index page. It will show your all data withour any loss perfect.
+=============================================================
+<?php
+$search_val = 'http://192.168.1.111/project/eshop/';
+$replace_val = 'eshop_new/';
+global $wpdb;
+$result =  $wpdb->get_results("select post_id from $wpdb->postmeta where meta_key='key'");
+foreach($result as $resultobj)
+{
+	if($data = get_post_meta( $resultobj->post_id, 'key', true ))
+	{
+		foreach($data as $key=>$val)
+		{
+			$data[$key] = str_replace($search_val,$replace_val,$val);
+		}
+		update_post_meta($resultobj->post_id, 'key', $data);
+	}
+}
+exit;
+?>
+=============================================================
+
+=============================================================
+IF YOU HAVE PROBLEM WITH PAYMENT OPTIONS? HERE IS THE SOLUTION
+=============================================================
+1)Open functions.php file from the root of theme folder.
+2)write below syntex at very top line in the file:
+
+delete_option('payment_method_paypal');
+delete_option('payment_method_googlechkout');
+delete_option('payment_method_authorizenet');
+delete_option('payment_method_worldpay');
+delete_option('payment_method_2co');
+delete_option('payment_method_prebanktransfer');
+delete_option('payment_method_payondelevary');
+
+Refresh your page and remove above code from same file.
+
+3)Open admin > shopping cart > payment options
+
+4)all options will installed automatically.
+=============================================================
